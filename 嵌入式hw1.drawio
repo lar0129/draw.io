@@ -1,9 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T13:50:25.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="7UDB5Z_Is9jHZ8xNLCmx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T06:21:16.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Eca9eIfpuYXQCEJ8FGYD" version="21.8.2" type="github">
   <diagram name="第 1 页" id="hsg_vKVhiviZSK_VpmDc">
-    <mxGraphModel>
+    <mxGraphModel dx="677" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-1" target="AuRLjp5ND3Z4sycSqdDx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-1" value="触控板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-2" target="AuRLjp5ND3Z4sycSqdDx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-2" value="温度传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="420.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-3" value="存储器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="420.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-4" value="总线管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-5" value="网络IO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="335" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-7" value="MCU芯片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="335" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-8" target="AuRLjp5ND3Z4sycSqdDx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-8" value="生物传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-9" target="AuRLjp5ND3Z4sycSqdDx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;三轴磁传感器&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-10" target="AuRLjp5ND3Z4sycSqdDx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-10" value="加热元件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-12" value="输入缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="275" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-13" target="AuRLjp5ND3Z4sycSqdDx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-13" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-15" target="AuRLjp5ND3Z4sycSqdDx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-15" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-16" target="AuRLjp5ND3Z4sycSqdDx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-16" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="310" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-17" target="AuRLjp5ND3Z4sycSqdDx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-17" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="520" as="sourcePoint" />
+            <mxPoint x="580" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="289.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-35" value="导电纤维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-50" target="AuRLjp5ND3Z4sycSqdDx-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-50" value="姿态计算模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-52" target="AuRLjp5ND3Z4sycSqdDx-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-52" value="气温数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="645" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-54" target="AuRLjp5ND3Z4sycSqdDx-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-54" value="&lt;p class=&quot;MsoNormal&quot;&gt;用户健康数据库&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-55" target="AuRLjp5ND3Z4sycSqdDx-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="620" />
+              <mxPoint x="270" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-55" target="AuRLjp5ND3Z4sycSqdDx-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="625" />
+              <mxPoint x="590" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-55" target="AuRLjp5ND3Z4sycSqdDx-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-55" target="AuRLjp5ND3Z4sycSqdDx-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-55" value="APP程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="645" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AuRLjp5ND3Z4sycSqdDx-57" target="AuRLjp5ND3Z4sycSqdDx-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-57" value="外观设计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="645" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-58" value="控制服装发热" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="578" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-63" value="控制服装外观" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="578" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-69" value="控制服装震动提醒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-73" value="健康专家问诊" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AuRLjp5ND3Z4sycSqdDx-76" value="总线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
